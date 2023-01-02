@@ -1,0 +1,19 @@
+{
+  "env": {
+    "GMAIL_JWT_KEY": "****************",
+    "GMAIL_PASSWORD": "****************",
+    "GMAIL_ADRESS": "normalgmailaddress@gmail.com",
+    "GOOGLE_CLIENT_ID": "*********************************",
+
+    "PORT": "7000",
+    "CLIENT_URL": "http://localhost:3000",
+
+    "DB_USER": "dbusername********",
+    "DB_PASSWORD": "****************",
+    "DB_NAME": "********",
+
+    "SIGNUP_JWT_KEY": "*******************",
+    "SIGNIN_JWT_KEY": "*****************",
+    "RESETPASSWORD_JWT_KEY": "******************"
+  }
+}
